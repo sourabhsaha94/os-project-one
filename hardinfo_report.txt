@@ -1,0 +1,835 @@
+
+Computer
+********
+
+
+Summary
+-------
+
+-Computer-
+Processor		: 8x Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz
+Memory		: 8085MB (1397MB used)
+Operating System		: Ubuntu 15.10
+User Name		: sourabh (Sourabh)
+Date/Time		: Wed 24 Aug 2016 07:23:39 PM EDT
+-Display-
+Resolution		: 1600x900 pixels
+OpenGL Renderer		: Mesa DRI Intel(R) Haswell Mobile 
+X11 Vendor		: The X.Org Foundation
+-Multimedia-
+Audio Adapter		: HDA-Intel - HDA Intel HDMI
+Audio Adapter		: HDA-Intel - HDA Intel PCH
+Audio Adapter		: ThinkPad EC - ThinkPad Console Audio Control
+-Input Devices-
+ Power Button
+ Sleep Button
+ Lid Switch
+ Power Button
+ AT Translated Set 2 keyboard
+ Video Bus
+ Video Bus
+ SIGMACH1P USB Keykoard
+ ETPS/2 Elantech Touchpad
+ PixArt USB Optical Mouse
+ SIGMACH1P USB Keykoard
+ Ideapad extra buttons
+ HDA Intel PCH Mic
+ HDA Intel PCH Headphone
+ HDA Intel HDMI HDMI/DP,pcm		: 3=
+ HDA Intel HDMI HDMI/DP,pcm		: 7=
+ HDA Intel HDMI HDMI/DP,pcm		: 8=
+ Lenovo EasyCamera
+ ThinkPad Extra Buttons
+-Printers-
+No printers found
+-SCSI Disks-
+ATA WDC WD10S21X-24R
+
+Operating System
+----------------
+
+-Version-
+Kernel		: Linux 4.2.0-42-generic (x86_64)
+Compiled		: #49-Ubuntu SMP Tue Jun 28 21:26:26 UTC 2016
+C Library		: Unknown
+Default C Compiler		: Unknown
+Distribution		: Ubuntu 15.10
+-Current Session-
+Computer Name		: sourabhpc
+User Name		: sourabh (Sourabh)
+Home Directory		: /home/sourabh
+Desktop Environment		: MATE (mate)
+-Misc-
+Uptime		: 42 minutes
+Load Average		: 0.28, 0.24, 0.31
+
+Kernel Modules
+--------------
+
+-Loaded Modules-
+rfcomm		: Bluetooth RFCOMM ver 1.11
+thinkpad_acpi		: ThinkPad ACPI Extras
+nvram
+msr		: x86 generic MSR driver
+drbg		: NIST SP800-90A Deterministic Random Bit Generator (DRBG) using following cores: HASH HMAC CTR
+ansi_cprng		: Software Pseudo Random Number Generator
+ctr		: CTR Counter block mode
+ccm		: Counter with CBC MAC
+bnep		: Bluetooth BNEP ver 1.3
+nls_iso8859_1
+ath3k		: Atheros AR30xx firmware driver
+uvcvideo		: USB Video Class driver
+btusb		: Generic Bluetooth USB driver ver 0.8
+videobuf2_vmalloc		: vmalloc memory handling routines for videobuf2
+videobuf2_memops		: common memory handling routines for videobuf2
+btrtl		: Bluetooth support for Realtek devices ver 0.1
+videobuf2_core		: Driver helper framework for Video for Linux 2
+v4l2_common		: misc helper functions for v4l2 device drivers
+btbcm		: Bluetooth support for Broadcom devices ver 0.1
+btintel		: Bluetooth support for Intel devices ver 0.1
+videodev		: Device registrar for Video4Linux drivers v2
+bluetooth		: Bluetooth Core ver 2.20
+media		: Device node registration for media drivers
+intel_rapl		: Driver for Intel RAPL (Running Average Power Limit)
+x86_pkg_temp_thermal		: X86 PKG TEMP Thermal Driver
+intel_powerclamp		: Package Level C-state Idle Injection for Intel CPUs
+coretemp		: Intel Core temperature monitor
+arc4		: ARC4 Cipher Algorithm
+ath9k		: Support for Atheros 802.11n wireless LAN cards.
+ath9k_common		: Shared library for Atheros wireless 802.11n LAN cards.
+ath9k_hw		: Support for Atheros 802.11n wireless LAN cards.
+kvm
+crct10dif_pclmul		: T10 DIF CRC calculation accelerated with PCLMULQDQ.
+crc32_pclmul
+ath		: Shared library for Atheros wireless LAN cards.
+snd_hda_codec_hdmi		: HDMI HD-audio codec
+aesni_intel		: Rijndael (AES) Cipher Algorithm, Intel AES-NI instructions optimized
+mac80211		: IEEE 802.11 subsystem
+aes_x86_64		: Rijndael (AES) Cipher Algorithm, asm optimized
+lrw		: LRW block cipher mode
+cfg80211		: wireless configuration support
+snd_hda_codec_realtek		: Realtek HD-audio codec
+snd_hda_codec_generic		: Generic HD-audio codec parser
+gf128mul		: Functions for multiplying elements of GF(2^128)
+snd_hda_intel		: Intel HDA driver
+snd_hda_codec		: HDA codec core
+snd_hda_core		: HD-audio bus
+glue_helper
+ablk_helper
+snd_hwdep		: Hardware dependent layer
+snd_pcm		: Midlevel PCM code for ALSA.
+cryptd		: Software async crypto daemon
+snd_seq_midi		: Advanced Linux Sound Architecture sequencer MIDI synth.
+snd_seq_midi_event		: MIDI byte &lt;-&gt; sequencer event coder
+rtsx_pci_ms		: Realtek PCI-E Memstick Card Host Driver
+snd_rawmidi		: Midlevel RawMidi code for ALSA.
+snd_seq		: Advanced Linux Sound Architecture sequencer.
+memstick		: Sony MemoryStick core driver
+mei_me		: Intel(R) Management Engine Interface
+snd_seq_device		: ALSA sequencer device management
+snd_timer		: ALSA timer interface
+snd		: Advanced Linux Sound Architecture driver for soundcards.
+soundcore		: Core sound module
+mei		: Intel(R) Management Engine Interface
+shpchp		: Standard Hot Plug PCI Controller Driver
+ideapad_laptop		: IdeaPad ACPI Extras
+input_leds		: Input -&gt; LEDs Bridge
+joydev		: Joystick device interfaces
+sparse_keymap		: Generic support for sparse keymaps
+serio_raw		: Raw serio driver
+ie31200_edac		: MC support for Intel Processor E31200 memory hub controllers
+edac_core		: Core library routines for EDAC reporting
+lpc_ich		: LPC interface for Intel ICH
+mac_hid
+parport_pc		: PC-style parallel port driver
+ppdev
+lp
+parport
+autofs4
+hid_generic		: HID generic driver
+usbhid		: USB HID core driver
+hid
+nouveau		: nVidia Riva/TNT/GeForce/Quadro/Tesla
+i915		: Intel Graphics
+rtsx_pci_sdmmc		: Realtek PCI-E SD/MMC Card Host Driver
+mxm_wmi		: MXM WMI Driver
+ttm		: TTM memory manager subsystem (for DRM device)
+i2c_algo_bit		: I2C-Bus bit-banging algorithm
+drm_kms_helper		: DRM KMS helper
+psmouse		: PS/2 mouse driver
+drm		: DRM shared core routines
+ahci		: AHCI SATA low-level driver
+libahci		: Common AHCI SATA low-level routines
+r8169		: RealTek RTL-8169 Gigabit Ethernet driver
+rtsx_pci		: Realtek PCI-E Card Reader Driver
+mii		: MII hardware support library
+wmi		: ACPI-WMI Mapping Driver
+video		: ACPI Video Driver
+
+Boots
+-----
+
+-Boots-
+Wed Aug 24 14:41		: 44..2.0-42-generic|still
+Tue Aug 23 03:36		: 44..2.0-42-generic|still
+Mon Aug 22 16:24		: 44..2.0-42-generic|still
+Sun Aug 21 18:50		: 44..2.0-42-generic|still
+Sun Aug 21 15:26		: 44..2.0-42-generic|still
+Fri Aug 19 20:06		: 44..2.0-42-generic|-
+Sat Aug 13 16:05		: 44..2.0-42-generic|-
+Sat Aug 13 00:16		: 44..2.0-42-generic|-
+Thu Aug 11 18:56		: 44..2.0-42-generic|-
+Thu Aug 11 23:33		: 44..2.0-42-generic|-
+
+Languages
+---------
+
+-Available Languages-
+en_AG		: English language locale for Antigua and Barbuda
+en_AG.utf8		: English language locale for Antigua and Barbuda
+en_AU.utf8		: English locale for Australia
+en_BW.utf8		: English locale for Botswana
+en_CA.utf8		: English locale for Canada
+en_DK.utf8		: English locale for Denmark
+en_GB.utf8		: English locale for Britain
+en_HK.utf8		: English locale for Hong Kong
+en_IE.utf8		: English locale for Ireland
+en_IN		: English language locale for India
+en_IN.utf8		: English language locale for India
+en_NG		: English locale for Nigeria
+en_NG.utf8		: English locale for Nigeria
+en_NZ.utf8		: English locale for New Zealand
+en_PH.utf8		: English language locale for Philippines
+en_SG.utf8		: English language locale for Singapore
+en_US.utf8		: English locale for the USA
+en_ZA.utf8		: English locale for South Africa
+en_ZM		: English locale for Zambia
+en_ZM.utf8		: English locale for Zambia
+en_ZW.utf8		: English locale for Zimbabwe
+
+Filesystems
+-----------
+
+-Mounted File Systems-
+udev	/dev	0.00 % (3.8 GiB of 3.8 GiB)	
+tmpfs	/run	1.20 % (780.2 MiB of 789.6 MiB)	
+/dev/sda10	/	10.41 % (81.4 GiB of 90.9 GiB)	
+tmpfs	/dev/shm	0.01 % (3.9 GiB of 3.9 GiB)	
+tmpfs	/run/lock	0.08 % (5.0 MiB of 5.0 MiB)	
+tmpfs	/sys/fs/cgroup	0.00 % (3.9 GiB of 3.9 GiB)	
+/dev/sda2	/boot/efi	12.42 % (224.2 MiB of 256.0 MiB)	
+tmpfs	/run/user/1000	0.00 % (789.6 MiB of 789.6 MiB)	
+
+Display
+-------
+
+-Display-
+Resolution		: 1600x900 pixels
+Vendor		: The X.Org Foundation
+Version		: 1.17.2
+-Monitors-
+Monitor 0		: 1600x900 pixels
+-Extensions-
+BIG-REQUESTS
+Composite
+DAMAGE
+DOUBLE-BUFFER
+DPMS
+DRI2
+DRI3
+GLX
+Generic Event Extension
+MIT-SCREEN-SAVER
+MIT-SHM
+Present
+RANDR
+RECORD
+RENDER
+SECURITY
+SGI-GLX
+SHAPE
+SYNC
+X-Resource
+XC-MISC
+XFIXES
+XFree86-DGA
+XFree86-VidModeExtension
+XINERAMA
+XInputExtension
+XKEYBOARD
+XTEST
+XVideo
+-OpenGL-
+Vendor		: Intel Open Source Technology Center
+Renderer		: Mesa DRI Intel(R) Haswell Mobile 
+Version		: 3.0 Mesa 11.0.2
+Direct Rendering		: Yes
+
+Environment Variables
+---------------------
+
+-Environment Variables-
+LANGUAGE		: en_US
+USER		: sourabh
+XDG_SEAT		: seat0
+XDG_SESSION_TYPE		: x11
+SSH_AGENT_PID		: 1550
+COMPIZ_CONFIG_PROFILE		: mate
+SHLVL		: 0
+HOME		: /home/sourabh
+DESKTOP_SESSION		: mate
+GTK_MODULES		: gail:atk-bridge:canberra-gtk-module
+XDG_SEAT_PATH		: /org/freedesktop/DisplayManager/Seat0
+DBUS_SESSION_BUS_ADDRESS		: unix:abstract=/tmp/dbus-wRaarVcgNG,guid=efe7dca19735dc0054d1d1cf57be240d
+DBUS_STARTER_BUS_TYPE		: session
+IM_CONFIG_PHASE		: 1
+MANDATORY_PATH		: /usr/share/gconf/mate.mandatory.path
+LOGNAME		: sourabh
+DEFAULTS_PATH		: /usr/share/gconf/mate.default.path
+GTK_OVERLAY_SCROLLING		: 0
+XDG_SESSION_ID		: c2
+CLUTTER_BACKEND		: x11
+PATH		: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+SESSION_MANAGER		: local/sourabhpc:@/tmp/.ICE-unix/1499,unix/sourabhpc:/tmp/.ICE-unix/1499
+GDM_LANG		: en_US
+XDG_RUNTIME_DIR		: /run/user/1000
+XDG_SESSION_PATH		: /org/freedesktop/DisplayManager/Session0
+DISPLAY		: :0
+XDG_CURRENT_DESKTOP		: MATE
+LANG		: en_US.UTF-8
+XAUTHORITY		: /home/sourabh/.Xauthority
+XDG_SESSION_DESKTOP		: mate
+SSH_AUTH_SOCK		: /tmp/ssh-WOhgoKCCsgTM/agent.1499
+XDG_GREETER_DATA_DIR		: /var/lib/lightdm-data/sourabh
+SHELL		: /bin/bash
+GDMSESSION		: mate
+XDG_VTNR		: 7
+PWD		: /home/sourabh
+DBUS_STARTER_ADDRESS		: unix:abstract=/tmp/dbus-wRaarVcgNG,guid=efe7dca19735dc0054d1d1cf57be240d
+XDG_DATA_DIRS		: /usr/share/mate:/usr/local/share/:/usr/share/
+XDG_CONFIG_DIRS		: /etc/xdg/xdg-mate:/etc/xdg
+MATE_DESKTOP_SESSION_ID		: this-is-deprecated
+
+Users
+-----
+
+-Users-
+root		: root
+daemon		: daemon
+bin		: bin
+sys		: sys
+sync		: sync
+games		: games
+man		: man
+lp		: lp
+mail		: mail
+news		: news
+uucp		: uucp
+proxy		: proxy
+www-data		: www-data
+backup		: backup
+list		: Mailing List Manager
+irc		: ircd
+gnats		: Gnats Bug-Reporting System (admin)
+nobody		: nobody
+systemd-timesync		: systemd Time Synchronization
+systemd-network		: systemd Network Management
+systemd-resolve		: systemd Resolver
+systemd-bus-proxy		: systemd Bus Proxy
+syslog
+messagebus
+uuidd
+avahi		: Avahi mDNS daemon
+ntp
+whoopsie
+avahi-autoipd		: Avahi autoip daemon
+colord		: colord colour management daemon
+dnsmasq		: dnsmasq
+speech-dispatcher		: Speech Dispatcher
+hplip		: HPLIP system user
+kernoops		: Kernel Oops Tracking Daemon
+pulse		: PulseAudio daemon
+rtkit		: RealtimeKit
+saned
+usbmux		: usbmux daemon
+lightdm		: Light Display Manager
+sourabh		: Sourabh
+
+Devices
+*******
+
+
+Processor
+---------
+
+-Processors-
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 702.25MHz
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 683.40MHz
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 712.70MHz
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 680.47MHz
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 692.67MHz
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 724.12MHz
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 698.05MHz
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz		: 680.76MHz
+
+Memory
+------
+
+-Memory-
+Total Memory		: 8085648 kB
+Free Memory		: 5920096 kB
+MemAvailable		: 6443528 kB
+Buffers		: 70376 kB
+Cached		: 768012 kB
+Cached Swap		: 0 kB
+Active		: 1488008 kB
+Inactive		: 463364 kB
+Active(anon)		: 1115052 kB
+Inactive(anon)		: 170296 kB
+Active(file)		: 372956 kB
+Inactive(file)		: 293068 kB
+Unevictable		: 32 kB
+Mlocked		: 32 kB
+Virtual Memory		: 4395004 kB
+Free Virtual Memory		: 4395004 kB
+Dirty		: 56 kB
+Writeback		: 0 kB
+AnonPages		: 1113084 kB
+Mapped		: 375108 kB
+Shmem		: 172336 kB
+Slab		: 86752 kB
+SReclaimable		: 52700 kB
+SUnreclaim		: 34052 kB
+KernelStack		: 7168 kB
+PageTables		: 24848 kB
+NFS_Unstable		: 0 kB
+Bounce		: 0 kB
+WritebackTmp		: 0 kB
+CommitLimit		: 8437828 kB
+Committed_AS		: 3533080 kB
+VmallocTotal		: 34359738367 kB
+VmallocUsed		: 578252 kB
+VmallocChunk		: 34358423548 kB
+HardwareCorrupted		: 0 kB
+AnonHugePages		: 307200 kB
+CmaTotal		: 0 kB
+CmaFree		: 0 kB
+HugePages_Total		: 0
+HugePages_Free		: 0
+HugePages_Rsvd		: 0
+HugePages_Surp		: 0
+Hugepagesize		: 2048 kB
+DirectMap4k		: 164608 kB
+DirectMap2M		: 3940352 kB
+DirectMap1G		: 5242880 kB
+
+PCI Devices
+-----------
+
+-PCI Devices-
+Host bridge		: Intel Corporation Xeon E3-1200 v3/4th Gen Core Processor DRAM Controller (rev 06)
+PCI bridge		: Intel Corporation Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller (rev 06) (prog-if 00 [Normal decode])
+VGA compatible controller		: Intel Corporation 4th Gen Core Processor Integrated Graphics Controller (rev 06) (prog-if 00 [VGA controller])
+Audio device		: Intel Corporation Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller (rev 06)
+USB controller		: Intel Corporation 8 Series/C220 Series Chipset Family USB xHCI (rev 05) (prog-if 30 [XHCI])
+Communication controller		: Intel Corporation 8 Series/C220 Series Chipset Family MEI Controller #1 (rev 04)
+USB controller		: Intel Corporation 8 Series/C220 Series Chipset Family USB EHCI #2 (rev 05) (prog-if 20 [EHCI])
+Audio device		: Intel Corporation 8 Series/C220 Series Chipset High Definition Audio Controller (rev 05)
+PCI bridge		: Intel Corporation 8 Series/C220 Series Chipset Family PCI Express Root Port #1 (rev d5) (prog-if 00 [Normal decode])
+PCI bridge		: Intel Corporation 8 Series/C220 Series Chipset Family PCI Express Root Port #2 (rev d5) (prog-if 00 [Normal decode])
+PCI bridge		: Intel Corporation 8 Series/C220 Series Chipset Family PCI Express Root Port #3 (rev d5) (prog-if 00 [Normal decode])
+PCI bridge		: Intel Corporation 8 Series/C220 Series Chipset Family PCI Express Root Port #5 (rev d5) (prog-if 00 [Normal decode])
+USB controller		: Intel Corporation 8 Series/C220 Series Chipset Family USB EHCI #1 (rev 05) (prog-if 20 [EHCI])
+ISA bridge		: Intel Corporation HM87 Express LPC Controller (rev 05)
+SATA controller		: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+SMBus		: Intel Corporation 8 Series/C220 Series Chipset Family SMBus Controller (rev 05)
+3D controller		: NVIDIA Corporation GM107M [GeForce GTX 860M] (rev a2)
+Network controller		: Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter (rev 01)
+Ethernet controller		: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 10)
+
+USB Devices
+-----------
+
+
+Printers
+--------
+
+-Printers-
+No printers found
+
+Battery
+-------
+
+-No batteries-
+No batteries found on this system
+
+Sensors
+-------
+
+
+Input Devices
+-------------
+
+-Input Devices-
+ Power Button
+ Sleep Button
+ Lid Switch
+ Power Button
+ AT Translated Set 2 keyboard
+ Video Bus
+ Video Bus
+ SIGMACH1P USB Keykoard
+ ETPS/2 Elantech Touchpad
+ PixArt USB Optical Mouse
+ SIGMACH1P USB Keykoard
+ Ideapad extra buttons
+ HDA Intel PCH Mic
+ HDA Intel PCH Headphone
+ HDA Intel HDMI HDMI/DP,pcm		: 3=
+ HDA Intel HDMI HDMI/DP,pcm		: 7=
+ HDA Intel HDMI HDMI/DP,pcm		: 8=
+ Lenovo EasyCamera
+ ThinkPad Extra Buttons
+
+Storage
+-------
+
+-SCSI Disks-
+ATA WDC WD10S21X-24R
+
+DMI
+---
+
+-BIOS-
+Date		: 02/11/2015
+Vendor		: LENOVO
+Version		: 9ECN37WW(V2.01)
+-Board-
+Name		: INVALID
+Vendor		: LENOVO
+
+Resources
+---------
+
+-I/O Ports-
+<tt>0000-0cf7 </tt>		: PCI Bus 0000:00
+<tt>  0000-001f </tt>		: dma1
+<tt>  0020-0021 </tt>		: pic1
+<tt>  0040-0043 </tt>		: timer0
+<tt>  0050-0053 </tt>		: timer1
+<tt>  0060-0060 </tt>		: keyboard
+<tt>  0062-0062 </tt>		: PNP0C09:00
+<tt>    0062-0062 </tt>		: EC data
+<tt>  0064-0064 </tt>		: keyboard
+<tt>  0066-0066 </tt>		: PNP0C09:00
+<tt>    0066-0066 </tt>		: EC cmd
+<tt>  0070-0077 </tt>		: rtc0
+<tt>  0080-008f </tt>		: dma page reg
+<tt>  00a0-00a1 </tt>		: pic2
+<tt>  00c0-00df </tt>		: dma2
+<tt>  00f0-00ff </tt>		: fpu
+<tt>    00f0-00f0 </tt>		: PNP0C04:00
+<tt>  0680-069f </tt>		: pnp 00:00
+<tt>  0800-087f </tt>		: pnp 00:01
+<tt>0cf8-0cff </tt>		: PCI conf1
+<tt>0d00-ffff </tt>		: PCI Bus 0000:00
+<tt>  164e-164f </tt>		: pnp 00:00
+<tt>  1800-1803 </tt>		: ACPI PM1a_EVT_BLK
+<tt>  1804-1805 </tt>		: ACPI PM1a_CNT_BLK
+<tt>  1808-180b </tt>		: ACPI PM_TMR
+<tt>  1810-1815 </tt>		: ACPI CPU throttle
+<tt>  1820-182f </tt>		: ACPI GPE0_BLK
+<tt>  1830-1833 </tt>		: iTCO_wdt.0.auto
+<tt>  1850-1850 </tt>		: ACPI PM2_CNT_BLK
+<tt>  1854-1857 </tt>		: pnp 00:03
+<tt>  1860-187f </tt>		: iTCO_wdt.0.auto
+<tt>  2000-2fff </tt>		: PCI Bus 0000:07
+<tt>  3000-3fff </tt>		: PCI Bus 0000:09
+<tt>    3000-30ff </tt>		: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 10)
+<tt>      3000-30ff </tt>		: RealTek RTL-8169 Gigabit Ethernet driver
+<tt>  4000-4fff </tt>		: PCI Bus 0000:01
+<tt>    4000-407f </tt>		: NVIDIA Corporation GM107M [GeForce GTX 860M] (rev a2)
+<tt>  5000-503f </tt>		: Intel Corporation 4th Gen Core Processor Integrated Graphics Controller (rev 06) (prog-if 00 [VGA controller])
+<tt>  5040-505f </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family SMBus Controller (rev 05)
+<tt>  5060-507f </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+<tt>    5060-507f </tt>		: AHCI SATA low-level driver
+<tt>  5080-5087 </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+<tt>    5080-5087 </tt>		: AHCI SATA low-level driver
+<tt>  5088-508f </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+<tt>    5088-508f </tt>		: AHCI SATA low-level driver
+<tt>  5090-5093 </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+<tt>    5090-5093 </tt>		: AHCI SATA low-level driver
+<tt>  5094-5097 </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+<tt>    5094-5097 </tt>		: AHCI SATA low-level driver
+<tt>  fd60-fd63 </tt>		: pnp 00:00
+<tt>  ffff-ffff </tt>		: pnp 00:00
+<tt>    ffff-ffff </tt>		: pnp 00:00
+<tt>      ffff-ffff </tt>		: pnp 00:00
+-Memory-
+<tt>00000000-00000fff </tt>		: reserved
+<tt>00001000-0006efff </tt>		: System RAM
+<tt>0006f000-0006ffff </tt>		: reserved
+<tt>00070000-00087fff </tt>		: System RAM
+<tt>00088000-000bffff </tt>		: reserved
+<tt>  000a0000-000bffff </tt>		: PCI Bus 0000:00
+<tt>000c0000-000c3fff </tt>		: PCI Bus 0000:00
+<tt>000c4000-000c7fff </tt>		: PCI Bus 0000:00
+<tt>000c8000-000cbfff </tt>		: PCI Bus 0000:00
+<tt>000cc000-000cffff </tt>		: PCI Bus 0000:00
+<tt>000d0000-000d3fff </tt>		: PCI Bus 0000:00
+<tt>000d4000-000d7fff </tt>		: PCI Bus 0000:00
+<tt>000d8000-000dbfff </tt>		: PCI Bus 0000:00
+<tt>000dc000-000dffff </tt>		: PCI Bus 0000:00
+<tt>000e0000-000e3fff </tt>		: PCI Bus 0000:00
+<tt>000e4000-000e7fff </tt>		: PCI Bus 0000:00
+<tt>000e8000-000ebfff </tt>		: PCI Bus 0000:00
+<tt>000ec000-000effff </tt>		: PCI Bus 0000:00
+<tt>000f0000-000fffff </tt>		: System ROM
+<tt>00100000-8eaaffff </tt>		: System RAM
+<tt>  02000000-027ff1dc </tt>		: Kernel code
+<tt>  027ff1dd-02f35d7f </tt>		: Kernel data
+<tt>  030ad000-031effff </tt>		: Kernel bss
+<tt>8eab0000-8feaffff </tt>		: reserved
+<tt>8feb0000-9c6befff </tt>		: System RAM
+<tt>9c6bf000-9c8befff </tt>		: reserved
+<tt>9c8bf000-9cebefff </tt>		: reserved
+<tt>9cebf000-9cfbefff </tt>		: ACPI Non-volatile Storage
+<tt>9cfbf000-9cffefff </tt>		: ACPI Tables
+<tt>9cfff000-9cffffff </tt>		: System RAM
+<tt>9d000000-9f9fffff </tt>		: reserved
+<tt>  9da00000-9f9fffff </tt>		: Graphics Stolen Memory
+<tt>9fa00000-feafffff </tt>		: PCI Bus 0000:00
+<tt>  9fa10000-9fa1ffff </tt>		: pnp 00:06
+<tt>  9fa20000-9fa20fff </tt>		: pnp 00:06
+<tt>  9fb00000-9fcfffff </tt>		: PCI Bus 0000:07
+<tt>  9fd00000-9fefffff </tt>		: PCI Bus 0000:07
+<tt>  a0000000-bfffffff </tt>		: PCI Bus 0000:01
+<tt>    a0000000-afffffff </tt>		: NVIDIA Corporation GM107M [GeForce GTX 860M] (rev a2)
+<tt>    b0000000-b1ffffff </tt>		: NVIDIA Corporation GM107M [GeForce GTX 860M] (rev a2)
+<tt>    b2000000-b207ffff </tt>		: NVIDIA Corporation GM107M [GeForce GTX 860M] (rev a2)
+<tt>  c0000000-cfffffff </tt>		: Intel Corporation 4th Gen Core Processor Integrated Graphics Controller (rev 06) (prog-if 00 [VGA controller])
+<tt>  d0000000-d0ffffff </tt>		: PCI Bus 0000:01
+<tt>    d0000000-d0ffffff </tt>		: NVIDIA Corporation GM107M [GeForce GTX 860M] (rev a2)
+<tt>  d1000000-d13fffff </tt>		: Intel Corporation 4th Gen Core Processor Integrated Graphics Controller (rev 06) (prog-if 00 [VGA controller])
+<tt>  d1400000-d14fffff </tt>		: PCI Bus 0000:0a
+<tt>    d1400000-d1400fff </tt>		: Realtek Semiconductor Co., Ltd. RTS5249 PCI Express Card Reader (rev 01)
+<tt>      d1400000-d1400fff </tt>		: Realtek PCI-E Card Reader Driver
+<tt>  d1500000-d15fffff </tt>		: PCI Bus 0000:09
+<tt>    d1500000-d1503fff </tt>		: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 10)
+<tt>      d1500000-d1503fff </tt>		: RealTek RTL-8169 Gigabit Ethernet driver
+<tt>    d1504000-d1504fff </tt>		: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 10)
+<tt>      d1504000-d1504fff </tt>		: RealTek RTL-8169 Gigabit Ethernet driver
+<tt>  d1600000-d16fffff </tt>		: PCI Bus 0000:08
+<tt>    d1600000-d167ffff </tt>		: Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter (rev 01)
+<tt>      d1600000-d167ffff </tt>		: Support for Atheros 802.11n wireless LAN cards.
+<tt>    d1680000-d168ffff </tt>		: Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter (rev 01)
+<tt>  d1700000-d170ffff </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family USB xHCI (rev 05) (prog-if 30 [XHCI])
+<tt>    d1700000-d170ffff </tt>		: xhci-hcd
+<tt>  d1710000-d1713fff </tt>		: Intel Corporation Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller (rev 06)
+<tt>    d1710000-d1713fff </tt>		: ICH HD audio
+<tt>  d1714000-d1717fff </tt>		: Intel Corporation 8 Series/C220 Series Chipset High Definition Audio Controller (rev 05)
+<tt>    d1714000-d1717fff </tt>		: ICH HD audio
+<tt>  d1718000-d171800f </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family MEI Controller #1 (rev 04)
+<tt>    d1718000-d171800f </tt>		: Intel(R) Management Engine Interface
+<tt>  d1719000-d17190ff </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family SMBus Controller (rev 05)
+<tt>  d171b000-d171b7ff </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+<tt>    d171b000-d171b7ff </tt>		: AHCI SATA low-level driver
+<tt>  d171c000-d171c3ff </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family USB EHCI #1 (rev 05) (prog-if 20 [EHCI])
+<tt>    d171c000-d171c3ff </tt>		: ehci_hcd
+<tt>  d171d000-d171d3ff </tt>		: Intel Corporation 8 Series/C220 Series Chipset Family USB EHCI #2 (rev 05) (prog-if 20 [EHCI])
+<tt>    d171d000-d171d3ff </tt>		: ehci_hcd
+<tt>  e0000000-efffffff </tt>		: PCI MMCONFIG 0000 [bus 00-ff]
+<tt>    e0000000-efffffff </tt>		: reserved
+<tt>      e0000000-efffffff </tt>		: pnp 00:06
+<tt>feb00000-feb0ffff </tt>		: reserved
+<tt>fec00000-fec00fff </tt>		: reserved
+<tt>  fec00000-fec003ff </tt>		: IOAPIC 0
+<tt>fed00000-fee00fff </tt>		: reserved
+<tt>  fed00000-fed003ff </tt>		: HPET 0
+<tt>    fed00000-fed003ff </tt>		: PNP0103:00
+<tt>  fed10000-fed17fff </tt>		: pnp 00:06
+<tt>  fed18000-fed18fff </tt>		: pnp 00:06
+<tt>  fed19000-fed19fff </tt>		: pnp 00:06
+<tt>  fed1c000-fed1ffff </tt>		: pnp 00:06
+<tt>    fed1f410-fed1f414 </tt>		: iTCO_wdt.0.auto
+<tt>  fed20000-fed3ffff </tt>		: pnp 00:06
+<tt>  fed90000-fed90fff </tt>		: dmar0
+<tt>  fed91000-fed91fff </tt>		: dmar1
+<tt>  fee00000-fee00fff </tt>		: Local APIC
+<tt>ff000000-ffffffff </tt>		: INT0800:00
+<tt>  ff000000-ff000fff </tt>		: pnp 00:06
+<tt>  ff980000-ffffffff </tt>		: reserved
+<tt>100000000-25f5fffff </tt>		: System RAM
+<tt>25f600000-25fffffff </tt>		: RAM buffer
+-DMA-
+<tt> 4</tt>		: cascade
+
+Network
+*******
+
+
+Interfaces
+----------
+
+-Network Interfaces-
+lo	0.24MiB	0.24MiB	127.0.0.1	
+enp9s0	0.00MiB	0.00MiB		
+wlp8s0	15.31MiB	2.04MiB	192.168.0.19	
+
+IP Connections
+--------------
+
+-Connections-
+127.0.1.1:53		0.0.0.0:*	udp	
+127.0.0.1:631	LISTEN	0.0.0.0:*	tcp	
+192.168.0.19:38064	TIME_WAIT	23.219.88.25:80	tcp	
+192.168.0.19:47536	ESTABLISHED	107.21.4.55:443	tcp	
+192.168.0.19:39112	ESTABLISHED	198.252.206.25:443	tcp	
+192.168.0.19:48936	TIME_WAIT	23.50.225.11:80	tcp	
+192.168.0.19:36796	ESTABLISHED	52.200.0.248:443	tcp	
+192.168.0.19:38068	ESTABLISHED	23.219.88.25:80	tcp	
+::1:631	LISTEN	:::*	tcp6	
+2606:a000:4e09:7a:60280	ESTABLISHED	2607:f8b0:4004:80b::443	tcp6	
+::1:58726	CLOSE_WAIT	::1:631	tcp6	
+::1:58724	CLOSE_WAIT	::1:631	tcp6	
+2606:a000:4e09:7a:50202	ESTABLISHED	2607:f8b0:400d:c0a::443	tcp6	
+127.0.1.1:53		0.0.0.0:*	udp	
+0.0.0.0:68		0.0.0.0:*	udp	
+0.0.0.0:8299		0.0.0.0:*	udp	
+192.168.0.19:123		0.0.0.0:*	udp	
+127.0.0.1:123		0.0.0.0:*	udp	
+0.0.0.0:123		0.0.0.0:*	udp	
+0.0.0.0:631		0.0.0.0:*	udp	
+0.0.0.0:33709		0.0.0.0:*	udp	
+0.0.0.0:5353		0.0.0.0:*	udp	
+:::54912		:::*	udp6	
+:::15383		:::*	udp6	
+2606:a000:4e09:7a00:123		:::*	udp6	
+2606:a000:4e09:7a00:123		:::*	udp6	
+fe80::d253:49ff:fe5:123		:::*	udp6	
+::1:123		:::*	udp6	
+:::123		:::*	udp6	
+:::5353		:::*	udp6	
+
+Routing Table
+-------------
+
+-IP routing table-
+0.0.0.0 / 192.168.0.1	0.0.0.0	UG	wlp8s0	
+169.254.0.0 / 0.0.0.0	255.255.0.0	U	wlp8s0	
+192.168.0.0 / 0.0.0.0	255.255.255.0	U	wlp8s0	
+
+ARP Table
+---------
+
+-ARP Table-
+192.168.0.1	b0:7f:b9:db:75:62	wlp8s0	
+
+DNS Servers
+-----------
+
+-Name servers-
+127.0.1.1
+
+Statistics
+----------
+
+-IP-
+11355		: Total packets received
+2		: With invalid addresses
+0		: Incoming packets discarded
+13		: With unknown protocol
+0		: Incoming packets discarded
+11135		: Incoming packets delivered
+10026		: Requests sent out
+-ICMP-
+0		: ICMP messages failed
+0		: ICMP messages failed
+91		: ICMP messages sent
+0		: ICMP messages failed
+-ICMPMSG-
+-TCP-
+406		: Active connections openings
+2		: Passive connection openings
+1		: Failed connection attempts
+0		: Connection resets received
+6		: Connections established
+16795		: Segments received
+12578		: Segments send out
+13		: Segments retransmited
+5		: Bad segments received.
+110		: Resets sent
+-UDP-
+3883		: Packets received
+91		: Packets to unknown port received.
+0		: Packet receive errors
+3998		: Packets sent
+-UDPLITE-
+-TCPEXT-
+263		: TCP sockets finished time wait in fast timer
+182		: Delayed acks sent
+349		: Bytes directly in process context from backlog
+10220		: Packet headers predicted
+1		: DSACKs received
+2036		: Acknowledgments not containing data payload received
+711		: Predicted acknowledgments
+4		: Fast retransmits
+4		: Fast retransmits
+4		: Fast retransmits
+1		: DSACKs received
+35		: DSACKs sent for old packets
+1		: DSACKs received
+15		: Connections reset due to unexpected data
+-IPEXT-
+
+Shared Directories
+------------------
+
+-SAMBA-
+-NFS-
+
+Benchmarks
+**********
+
+
+CPU Blowfish
+------------
+
+-CPU Blowfish-
+<big><b>This Machine</b></big>	702 MHz	9.707	
+Intel(R) Celeron(R) M processor         1.50GHz	(null)	26.1876862	
+PowerPC 740/750 (280.00MHz)	(null)	172.816713	
+
+CPU CryptoHash
+--------------
+
+-CPU CryptoHash-
+<big><b>This Machine</b></big>	702 MHz	171.429	
+
+CPU Fibonacci
+-------------
+
+-CPU Fibonacci-
+<big><b>This Machine</b></big>	702 MHz	7.305	
+Intel(R) Celeron(R) M processor         1.50GHz	(null)	8.1375674	
+PowerPC 740/750 (280.00MHz)	(null)	58.07682	
+
+CPU N-Queens
+------------
+
+-CPU N-Queens-
+<big><b>This Machine</b></big>	702 MHz	2.463	
+
+FPU FFT
+-------
+
+-FPU FFT-
+<big><b>This Machine</b></big>	702 MHz	4.200	
+
+FPU Raytracing
+--------------
+
+-FPU Raytracing-
+<big><b>This Machine</b></big>	702 MHz	13.555	
+Intel(R) Celeron(R) M processor         1.50GHz	(null)	40.8816714	
+PowerPC 740/750 (280.00MHz)	(null)	161.312647	
