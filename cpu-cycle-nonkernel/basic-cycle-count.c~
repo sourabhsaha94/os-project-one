@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+static __inline__ unsigned long long rdtsc(void)
+{
+  unsigned long long int x;
+  __asm__ volatile (".byte 0x0f, 0x31" : "=A"(x)); //number is opcode of rdtsc
+  return x;
+}
+
+int main(){
+  unsigned long long cycles = rdtsc();
+  cycles = rdtsc()-cycles;
+  printf("Time is %d cycles\n",(unsigned)cycles);
+  return 0;
+}
