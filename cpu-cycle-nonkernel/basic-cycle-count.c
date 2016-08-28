@@ -1,6 +1,7 @@
 /*implementation understood from www.stackoverflow.com*/
 
 #include<stdio.h>
+#include<unistd.h>
 
 static __inline__ unsigned long long rdtsc(void)
 {
@@ -10,11 +11,15 @@ static __inline__ unsigned long long rdtsc(void)
 }
 
 int main(){
-  int i=0;
-  unsigned long long cycles = rdtsc();
-  /*any code change add it here*/
-  /*---------------------------*/
-  cycles = rdtsc()-cycles;
-  printf("Time is %d cycles\n",(unsigned)cycles);
-  return 0;
+   unsigned long long cycles;
+  
+    cycles = rdtsc();
+    /*any code change add it here*/
+    sleep(1);
+    /*---------------------------*/
+    cycles = rdtsc()-cycles;
+    printf("Time is %ld cycles\n",(unsigned)cycles);
+   return 0;
 }
+/*output
+  Time is 2494576388 cycles*/
