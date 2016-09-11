@@ -30,4 +30,4 @@ int main(){
   return 0;
 }
 /*output
-  Average loop overhead is 2650 cycles*/
+  Average loop overhead is 1500 cycles*/
