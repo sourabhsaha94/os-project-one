@@ -8,13 +8,17 @@
 static __inline__ unsigned long long rdtsc(void)
 {
   unsigned long long int x;
- __asm__ volatile (".byte 0x0f, 0x31" : "=A"(x)); //number is opcode of rdtsc
+  __asm__ volatile (".byte 0x0f, 0x31" : "=A"(x)); //number is opcode of rdtsc
   return x;
+}
+
+void procedure(){
+  //has nothing
 }
 
 int main(){
   unsigned long long cycles,sum=0;
-  int x;
+  int x,n=0;
   cpu_set_t mask;//variable to hold CPU number
   CPU_ZERO(&mask);
   CPU_SET(7,&mask);//use cpu number 7 for running current process
@@ -22,10 +26,11 @@ int main(){
   for(x=0;x<100;x++)
     {
       cycles = rdtsc();
+      procedure();
       cycles = rdtsc()-cycles;
       sum=cycles+sum; 
     }
-  printf("Average overhead for reading time is %ld cycles\n",(unsigned)sum/x);
+  printf("Average overhead for procedure call with %d argument(s) is %ld cycles\n",n,(unsigned)sum/x);
   return 0;
 }
 /*output
